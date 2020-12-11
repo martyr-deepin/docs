@@ -1,6 +1,7 @@
 // config.js
 module.exports = {
     theme: 'vuepress-theme-vdoing',
+    base: '/dde-docs/',
     themeConfig: {
         // 添加导航栏
         nav: [
