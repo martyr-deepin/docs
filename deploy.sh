@@ -16,7 +16,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
   githubUrl=git@github.com:linuxdeepin/dde-docs.git
 else
   msg='来自github actions的自动部署'
-  githubUrl=https://deepinAdmin:${GITHUB_TOKEN}@github.com/linuxdeepin/dde-docs.git
+  githubUrl=https://linuxdeepin:${GITHUB_TOKEN}@github.com/linuxdeepin/dde-docs.git
   git config --global user.name "deepinAdmin"
   git config --global user.email "github@uniontech.com"
 fi
