@@ -13,12 +13,14 @@ cd docs/.vuepress/dist
 # echo 'b.xugaoyi.com' > CNAME
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
-  githubUrl=git@github.com:linuxdeepin/dde-docs.git
+  githubUrl=https://xmuli:${GITHUB_TOKEN}@github.com/xmuli/dde-docs.git
+  git config --global user.name "xmuli"
+  git config --global user.email "xmulitech@gmail.com"
 else
   msg='来自github actions的自动部署'
-  githubUrl=https://linuxdeepin:${GITHUB_TOKEN}@github.com/linuxdeepin/dde-docs.git
-  git config --global user.name "deepinAdmin"
-  git config --global user.email "github@uniontech.com"
+  githubUrl=https://xmuli:${GITHUB_TOKEN}@github.com/xmuli/dde-docs.git
+  git config --global user.name "xmuli"
+  git config --global user.email "xmulitech@gmail.com"
 fi
 git init
 git add -A

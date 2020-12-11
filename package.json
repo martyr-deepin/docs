@@ -3,16 +3,15 @@
     "version": "1.0.0",
     "description": "Deepin Documentation",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "author": "deepin",
     "license": "ISC",
-    "devDependencies": {
-        "vuepress": "^1.7.1"
-    },
     "scripts": {
         "docs:dev": "vuepress dev docs",
-        "docs:build": "vuepress build docs"
+        "docs:build": "vuepress build docs",
+        "deploy": "sh ./deploy.sh"
+    },
+    "dependencies": {
+        "vuepress": "^1.7.1",
+        "vuepress-theme-vdoing": "^1.5.3"
     }
 }
