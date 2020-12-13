@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     theme: 'vuepress-theme-vdoing',
-    base: '/dde-docs/',
+    base: '/docs/',
     themeConfig: {
         // 添加导航栏
         nav: [
@@ -15,8 +15,8 @@ module.exports = {
             }
         ],
         sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-        logo: '/img/cat.png', // 导航栏logo
-        repo: 'xmuli/dde-docs', // 导航栏右侧生成Github链接
+        logo: '/img/deepin.png', // 导航栏logo
+        repo: 'linuxdeepin/docs', // 导航栏右侧生成Github链接
         lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
         docsDir: 'docs', // 编辑的文件夹
         editLinks: true, // 启用编辑
@@ -46,11 +46,11 @@ module.exports = {
 
         sidebar: 'structuring', // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
         author: { // 文章默认的作者信息，可在.md文件front matter中单独配置此信息 String | {name: String, link: String}
-            name: '偕臧', // 必需
-            link: 'https://github.com/xmuli' // 可选的
+            name: 'deepin', // 必需
+            link: 'https://github.com/linuxdeepin' // 可选的
         },
         blogger: { // 博主信息，显示在首页侧边栏
-            avatar: 'https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/20201210175544.png',
+            avatar: '/img/DCIM.gif',
             name: 'Deepin',
             slogan: 'Deepin 社区文档'
         },
@@ -59,12 +59,12 @@ module.exports = {
             icons: [{
                     iconClass: 'icon-youjian',
                     title: '发邮件',
-                    link: 'mailto:xmulitech@gmail.com'
+                    link: 'mailto:github@uniontech.com'
                 },
                 {
                     iconClass: 'icon-github',
                     title: 'GitHub',
-                    link: 'https://github.com/xmuli/dde-docs'
+                    link: 'https://github.com/linuxdeepin/docs'
                 }
             ]
         },
