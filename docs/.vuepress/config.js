@@ -9,7 +9,7 @@ module.exports = {
             {
                 text: 'DTK',
                 items: [
-                    { text: '简体中文', link: '/pages/bcb29c/' },
+                    { text: '简体中文', link: '/pages/45e05f/' },
                     { text: 'English', link: '/pages/0d77d0/' },
                 ]
             }
