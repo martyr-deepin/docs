@@ -10,7 +10,7 @@ npm run docs:build
 cd docs/.vuepress/dist
 
 # deploy to github
-# echo 'b.xugaoyi.com' > CNAME
+# echo 'docs.deepin.org' > CNAME
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
   githubUrl=https://deepinAdmin:${GITHUB_TOKEN}@github.com/linuxdeepin/docs.git
