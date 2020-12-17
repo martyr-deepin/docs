@@ -8,7 +8,7 @@ module.exports = {
             { text: '主页', link: '/' },
             { text: '指南', link: '/' },
             { text: 'DTK', link: '/pages/45e05f/' },
-            { text: '应用软件', link: '/pages/c15bcd/' },
+            { text: '经验分享', link: '/pages/c15bcd/' },
             { text: '社区作品', link: '/pages/6903df/' },
             { text: '关于', link: '/pages/3b5851/' },
             {
