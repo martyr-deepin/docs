@@ -7,32 +7,15 @@ module.exports = {
         nav: [
             { text: '主页', link: '/' },
             { text: '指南', link: '/' },
+            { text: 'DTK', link: '/pages/45e05f/' },
+            { text: '应用软件', link: '/pages/c15bcd/' },
+            { text: '社区作品', link: '/pages/6903df/' },
+            { text: '关于', link: '/pages/3b5851/' },
             {
-                text: 'DTK',
+                text: 'Translation',
                 items: [
-                    { text: '简体中文', link: '/pages/45e05f/' },
-                    { text: 'English', link: '/pages/0d77d0/' },
-                ]
-            },
-            {
-                text: '应用软件',
-                items: [
-                    { text: '简体中文', link: '/pages/c15bcd/' },
-                    { text: 'English', link: '/pages/ebde82/' },
-                ]
-            },
-            {
-                text: '社区作品',
-                items: [
-                    { text: '简体中文', link: '/pages/6903df/' },
-                    { text: 'English', link: '/pages/a78023/' },
-                ]
-            },
-            {
-                text: '关于',
-                items: [
-                    { text: '简体中文', link: '/pages/' },
-                    { text: 'English', link: '/pages/3b5851/' },
+                    { text: '简体中文', link: '/' },
+                    { text: 'English', link: '/pages/ebde83/' },
                 ]
             }
         ],
