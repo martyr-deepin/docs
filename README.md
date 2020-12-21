@@ -2,9 +2,9 @@
 
 Deepin 社区文档，以 `DTK 文档` + `经验交流` + `用户技术分享、作品展示` 为主题内容，**欢迎在此查询 DTK 帮助手册。** 
 
-- [查看文档网站](https://linuxdeepin.github.io/docs/)
+- [文档网站](https://docs.deepin.org)
 
-- [猜测你想找的是这个](https://linuxdeepin.github.io/docs/pages/45e05f/)
+- [猜测你想找的是这个](https://docs.deepin.org/pages/45e05f/)
 
 <br>
 
@@ -12,8 +12,8 @@ Deepin 社区文档，以 `DTK 文档` + `经验交流` + `用户技术分享、
 
 欢迎任何个人或者团队，对此 `Deepin 社区文档`  进行完善。
 
-- 修复错别字
 - 文章投稿
+- 修复错别字
 - 国际化翻译文章
 - 等。。。
 
