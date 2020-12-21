@@ -21,9 +21,7 @@ Deepin 社区文档，以 `DTK 文档` + `经验交流` + `用户技术分享、
 
 ## 贡献
 
-[contributors](https://github.com/linuxdeepin/docs/graphs/contributors)
-
-<br>
+<a href="https://github.com/linuxdeepin/docs/graphs/contributors"><img src="https://opencollective.com/linuxdeepin-dtkdocs/contributors.svg?width=890" /></a>
 
 ## 许可证
 
