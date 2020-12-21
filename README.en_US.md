@@ -2,9 +2,9 @@
 
 Deepin community documentation, with `DTK documentation` + `experience sharing` + `user technical sharing, work showcase` as the theme content,  **welcome to check the DTK help manual here.** 
 
-- [View documentation site](https://linuxdeepin.github.io/docs/)
+- [View documentation site](http://docs.deepin.org)
 
-- [Guess you're looking for this](https://linuxdeepin.github.io/docs/pages/45e05f/)
+- [Guess you're looking for this](https://docs.deepin.org/pages/45e05f/)
 
 <br>
 
@@ -21,7 +21,7 @@ Any individual or team is welcome to contribute to this `Deepin Community Docume
 
 ## Contributions
 
-[contributors](https://github.com/linuxdeepin/docs/graphs/contributors)
+<a href="https://github.com/linuxdeepin/docs/graphs/contributors"><img src="https://opencollective.com/linuxdeepin-dtkdocs/contributors.svg?width=890" />
 
 <br>
 
