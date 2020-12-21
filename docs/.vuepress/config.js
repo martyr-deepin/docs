@@ -2,11 +2,13 @@
 module.exports = {
     theme: 'vuepress-theme-vdoing',
     base: '/',
+    title: 'Documentation',
+    description: 'Deepin Documentation',
     themeConfig: {
         // 添加导航栏
         nav: [
             { text: '主页', link: '/' },
-            { text: '指南', link: '/' },
+            { text: '指南', link: '/pages/3fd76c/' },
             { text: 'DTK', link: '/pages/45e05f/' },
             { text: '经验分享', link: '/pages/c15bcd/' },
             { text: '社区作品', link: '/pages/6903df/' },
