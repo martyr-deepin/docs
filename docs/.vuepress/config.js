@@ -2,7 +2,7 @@
 module.exports = {
     theme: 'vuepress-theme-vdoing',
     base: '/',
-    title: 'Documentation',
+    title: 'Documentation-deepin',
     description: 'Deepin Documentation',
     themeConfig: {
         // 添加导航栏
