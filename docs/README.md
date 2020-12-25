@@ -10,15 +10,15 @@ tagline: Deepin 应用开发技术分享、DTK开发经验、社区开发作品�
 features: # 可选的
   - title: DTK
     details: DTK 文档和开发经验
-    link: /01.DTK/
+    link: /pages/45e05f/
     imgUrl: /img/ui.png
-  - title: 应用软件
-    details: 应用软件的习惯配置
-    link: /ui/
+  - title: 经验分享
+    details: 经验分享、踩坑记录
+    link: /pages/c15bcd/
     imgUrl: /img/ui.png
   - title: 社区作品
     details: 社区个人爱好者作品与交流
-    link: /technology/
+    link: /pages/6903df/
     imgUrl: /img/other.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
