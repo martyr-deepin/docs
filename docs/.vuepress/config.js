@@ -16,6 +16,7 @@ module.exports = {
                 items: [
                     { text: '简体中文', link: '/' },
                     { text: 'English', link: '/pages/ebde83/' },
+                    { text: 'Espasñol', link: '/pages/722460/' },                    
                 ]
             }
         ],
