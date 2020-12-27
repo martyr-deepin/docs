@@ -1,14 +1,16 @@
 // config.js
 module.exports = {
     theme: 'vuepress-theme-vdoing',
-    base: '/docs/',
+    base: '/',
+    title: 'Documentation',
+    description: 'Deepin Documentation',
     themeConfig: {
         // 添加导航栏
         nav: [
             { text: '主页', link: '/' },
-            { text: '指南', link: '/' },
+            { text: '指南', link: '/pages/3fd76c/' },
             { text: 'DTK', link: '/pages/45e05f/' },
-            { text: '应用软件', link: '/pages/c15bcd/' },
+            { text: '经验分享', link: '/pages/c15bcd/' },
             { text: '社区作品', link: '/pages/6903df/' },
             { text: '关于', link: '/pages/3b5851/' },
             {
@@ -52,7 +54,7 @@ module.exports = {
 
         sidebar: 'structuring', // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
         author: { // 文章默认的作者信息，可在.md文件front matter中单独配置此信息 String | {name: String, link: String}
-            name: 'deepin', // 必需
+            name: 'Deepin | Any developer', // 必需
             link: 'https://github.com/linuxdeepin' // 可选的
         },
         blogger: { // 博主信息，显示在首页侧边栏
