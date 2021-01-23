@@ -53,7 +53,7 @@ module.exports = {
 
         sidebar: 'structuring', // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
         author: { // 文章默认的作者信息，可在.md文件front matter中单独配置此信息 String | {name: String, link: String}
-            name: 'deepin', // 必需
+            name: 'Deepin | Any developer', // 必需
             link: 'https://github.com/linuxdeepin' // 可选的
         },
         blogger: { // 博主信息，显示在首页侧边栏
