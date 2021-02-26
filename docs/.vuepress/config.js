@@ -58,7 +58,7 @@ module.exports = {
             link: 'https://github.com/linuxdeepin' // 可选的
         },
         blogger: { // 博主信息，显示在首页侧边栏
-            avatar: 'https://raw.githubusercontent.com/xmuli/xmuliPic/pic/2020/DCIM.gif',
+            avatar: 'https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2021/deepin.png',
             name: 'Deepin',
             slogan: 'Deepin 社区文档'
         },
